@@ -1,15 +1,4 @@
 # WebDevChallenge
-> A hopefully ever-growing list of web-development related challenges
-***
-
-## Guidelines for writing challenges
-1. Don't be too vague, but don't be too specific. Make the challenge itself specific and measurable, but try not to impose a language or framework.
-
-2. If you do want to create a framework/language specific challenge, try to focus on challenges that are unique to that framework/language.
-
-3. Avoid "learn XYZ" style challenges - focus on challenges that can be DONE or shown in a Git repo.
-
-4. Favor challenges that will teach a new, useful skill that is relevant to web development, or skills that teach devs how to solve real web dev problems. The challenge can be a fun, meaningless exercise, but its purpose should be to expose the developer to skills that are applicable to daily web dev tasks.
 
 ## Table of contents
 1. [Accessibility](#accessibility)
@@ -49,6 +38,7 @@
 - [ ] Create a webapp using a weather API and an image API like flickr to display images based on the weather.
 - [ ] Use the Spotify API to search for a particular song or artist and create a webpage with details on that particular song/artist.
 - [ ] Create a custom-styled map using the Google Maps API
+- [ ] Build a book search website using: https://developers.google.com/books
 
 ### Auth and Sessions
 - [ ] Traditional form-based identifier/password.
@@ -107,9 +97,9 @@
 
 ### Git
 - [ ] Set up two different GitHub accounts, and learn how to SSH different projects with different accounts.
-- [ ] Use command line to push a Git repository from a local environment to a live server. ~ [Getting Started with Git](http://www.taniarascia.com/getting-started-with-git/)
-- [ ] Squash different Git commits together
-- [ ] Try creating a pull request on another repository at the command line. You never know what good stuff could happen...
+- [x] Use command line to push a Git repository from a local environment to a live server. ~ [Getting Started with Git](http://www.taniarascia.com/getting-started-with-git/)
+- [x] Squash different Git commits together
+- [x] Try creating a pull request on another repository at the command line. You never know what good stuff could happen...
 
 ### JavaScript
 - [ ] Create an image slider that accepts any number of slides and changes them every 5 seconds.
@@ -122,7 +112,6 @@
 - [ ] Build a simple multi-page app using Angular.js.
 - [ ] Build a select-box replacement plugin.
 - [ ] Build a plugin that provides a popup window functionality.
-- [ ] Redo the exercises using jQuery.
 - [ ] Create a navigation bar that tracks your scrolling activity and indicates which section of the page you're viewing.
 - [ ] Create a pomodoro timer with start/stop/reset functionality.
 
